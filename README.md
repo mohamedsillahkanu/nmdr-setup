@@ -1,1 +1,0 @@
-# nmdr-setup
